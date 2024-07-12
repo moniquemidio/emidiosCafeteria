@@ -1,0 +1,34 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.formulario{
+    display: inline-block;
+}
+
+.cabecalho {
+    background-color: gray;
+}
+
+.navbarColor {
+    background-color: black;
+}
+
+.my-carousel {
+   width: 600px;
+   height: 400px;
+   overflow: hidden;
+}
+
+.my-carousel, .carousel-item img {
+    width: 80%;
+    height: 80%;
+    object-fit: cover;
+}
+
+.img1 {
+    width: 80%;
+    height: 80%;
+}
